@@ -19,8 +19,8 @@ Sam-
 5.
 
 Sean-
-1.
-2.
+1. How will the balance be affected during econmic crisis?
+2. How will other countries be affected if a tax cut occured?
 3.
 4.
 5.
