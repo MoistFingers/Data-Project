@@ -13,10 +13,14 @@ Trade Stats For Countries - https://datacatalog.worldbank.org/dataset/world-inte
 # Questions
 
 ## Sam-
-1. How would countries be affected by changes in oil prices?
+1. What is Germany's trade balance?
+**279,757,347,518 US$**
 2. What countries will be affected in a hypothecal market crash centralized in the USA?
+**Many countries export to the US, which means a hypothetical crash will take jobs away from other countries.
 3. Who is the US most dependent on for imports?
+**China**
 4. What country has the biggest surplus?
+**China**
 5. 
 
 ## Sean-
